@@ -11,7 +11,7 @@ const Home = () => {
     console.log(news)
 
     return (
-        <div>
+        <div className="mt-5">
             <Header></Header>
             <BreakingNews></BreakingNews>
             <Navbar></Navbar>
